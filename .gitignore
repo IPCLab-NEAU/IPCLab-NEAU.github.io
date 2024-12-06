@@ -1,0 +1,15 @@
+_site/
+
+*.docx
+
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+
+/lover/
+
+files/~$ngXue-CV.doc
+images/.DS_Store
+*/.DS_Store
